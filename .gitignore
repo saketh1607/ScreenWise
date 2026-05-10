@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Test and tooling
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Environment files
+.env
+
+# Local screening history
+data/
+
+# Legacy attached project (separate git repo)
+Resume_And_Job_Description_Matching/
